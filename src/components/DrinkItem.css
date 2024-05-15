@@ -1,0 +1,20 @@
+.drink-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.drink-image {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 10px;
+}
+
+.drink-name {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333; /* Dark grey for the text */
+}
